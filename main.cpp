@@ -7,6 +7,7 @@
 #include <iomanip>
 using namespace std;
 
+
 // Структура для хранения информации о событии
 struct Event {
     string time;
